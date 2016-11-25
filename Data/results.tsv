@@ -1,0 +1,27 @@
+do i have risky customers \?	what are the clients at risk \?	['do i have risky customers \\?']	[0.87498560932876179]	1
+how can i change my password \?	i lost my password how can i have a new one \?	['how can i change my password \\?']	[0.52040998870654076]	1
+are there blocked invoices \?	how many invoices are blocked \?	['are there blocked invoices \\?']	[0.73087705299785233]	1
+how many vehicles do i have in my database \?	what is the number of cars in the base \?	['how many users are in the base \\?']	[0.4269835969019769]	0
+does snow fall in egypt \?	is there snow in egypt \?	['does snow fall in egypt \\?']	[0.88867043116433098]	1
+what are most ordered requests for belgium in the past 10 days \?	what are the top belgium requests in the last 10 days \?	['what are most ordered requests for belgium in the past 10 days \\?']	[0.84570669917094532]	1
+what is the number of users in each bu \?	how many persons are in the bu \?	['fallback']	[0]	0
+how many users are in the base \?	what is the number of users in the database \?	['how many soundtracks in the database \\?', 'what is the number of users in each bu \\?', 'how many users are in the base \\?']	[0.27347992850545705, 0.20023516741720798, 0.19670225731926061]	1
+can you list the names of the vendors \?	which vendors do you know \?	['can you list the names of the vendors \\?']	[0.44547126583988905]	1
+what is mike time tracking in march \?	what is the march timetracking status of mike \?	['what is mike time tracking in march \\?']	[0.87559567148399331]	1
+what are the services with the highest number of requests \?	which services have a high quantity of requests \?	['what are the services with the highest number of requests \\?']	[0.56315626864783486]	1
+what can i improve the february timetracking \?	what should i do to increase the february time tracking rate \?	['what can i improve the february timetracking \\?', 'how can i decrease the risk \\?']	[0.21709258249605728, 0.20975328989408473]	1
+which companies have data scientists \?	what are the companies hiring data engineers \?	['which companies have data scientists \\?']	[0.87418419004799131]	1
+how can i decrease the risk \?	what should i do to lower the risk \?	['how can i decrease the risk \\?']	[0.60563353013441856]	1
+which bus did raise the most incidents in the past 2 days \?	what are the bus with a high number of incidents in the last 48 hour	['which bus did raise the most incidents in the past 2 days \\?']	[0.79244834000380937]	1
+what is the average sales per vendor last month \?	how much did the sales people sell in april \?	['what can i improve the february timetracking \\?']	[0.26493136504853487]	0
+how much money does product k34tr cost \?	what s the price of k34tr	['how much money does product k34tr cost \\?', 'what is the delivery delay for product k34tr \\?']	[0.14218999378335156, 0.10154061713282758]	1
+how much money will i be payed \?	how much will i earn	['how much money will i be payed \\?']	[0.19864414951903908]	1
+how much money is there on my saving bank account \?	what is my saving balance \?	['fallback']	[0]	0
+what was the dollar euro currency in march \?	march euro dollar exchange rate	['what was the dollar euro currency in march \\?']	[0.8814575131710799]	1
+what is the delivery delay for product k34tr \?	how long to ship k34tr \?	['what is the delivery delay for product k34tr \\?', 'how much money does product k34tr cost \\?']	[0.11051418803958575, 0.086954626155204953]	1
+how many soundtracks in the database \?	number of musics \?	['how many jazz tracks \\?', 'what is the percentage of jazz tracks \\?']	[0.4650886224546763, 0.23110723773233718]	0
+how many jazz tracks \?	number of jazz songs	['how many jazz tracks \\?', 'what is the percentage of jazz tracks \\?']	[0.46392202736837662, 0.23052764967450784]	1
+what is the percentage of jazz tracks \?	jazz song proportion \?	['what is the percentage of jazz tracks \\?']	[0.5221471673828505]	1
+how many units left in stock \?	number of units remaining \?	['how many units left in stock \\?']	[0.3900406003437103]	1
+how many managers in this department \?	number of manager in sales	['how many managers in this department \\?', 'what are the services with the highest number of requests \\?']	[0.20114787071831206, 0.14809629636932714]	1
+how many times has uruguay won the world cup \?	number of time uruguay was champion \?	['how many times has uruguay won the world cup \\?']	[0.31973748066645846]	1
